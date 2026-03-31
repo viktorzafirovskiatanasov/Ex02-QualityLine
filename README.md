@@ -1,4 +1,4 @@
-# Ex02 — Personal Details WinForms App
+<img width="747" height="522" alt="image" src="https://github.com/user-attachments/assets/fd289893-0b90-4050-a77e-d81602ae5b7a" /># Ex02 — Personal Details WinForms App
 
 Overview
 - Windows Forms application targeting .NET Framework 4.7.2 that captures and persists personal details to a database.
